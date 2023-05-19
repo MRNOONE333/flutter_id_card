@@ -1,4 +1,4 @@
-# flutter_projects_series1
+# flutter_projects
 
 Practice Flutter project for making an id card .
 

@@ -1,7 +1,16 @@
-# Practice_flutter_projects
+# flutter_projects_android_studio
 
-Practice Flutter project for making an id card .
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-![id](https://github.com/MRNOONE333/flutter_id_card/assets/104716575/12493a01-a5bc-4d73-82bd-a16aad9ea4dd)
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
